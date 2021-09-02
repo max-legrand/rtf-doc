@@ -4,7 +4,7 @@ Generates rtf documents
 
 ## Installation
 
-``go get -u github.com/therox/rtf-doc``
+``go get -u github.com/max-legrand/rtf-doc``
 
 ## Usage
 

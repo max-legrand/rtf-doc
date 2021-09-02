@@ -3,7 +3,7 @@ package rtfdoc_test
 import (
 	"fmt"
 
-	rtfdoc "github.com/therox/rtf-doc"
+	rtfdoc "github.com/max-legrand/rtf-doc"
 )
 
 func ExampleDocument() {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	rtfdoc "github.com/therox/rtf-doc"
+	rtfdoc "github.com/max-legrand/rtf-doc"
 )
 
 func main() {
