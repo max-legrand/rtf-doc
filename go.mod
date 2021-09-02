@@ -1,4 +1,4 @@
-module github.com/therox/rtf-doc
+module github.com/max-legrand/rtf-doc
 
 go 1.14
 
